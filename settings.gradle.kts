@@ -1,0 +1,1 @@
+rootProject.name = "com.robertruzsa.ktor-transport-api"
